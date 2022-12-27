@@ -8,7 +8,7 @@ No script trabalhei algumas técnicas, como lógica, estruturas de repetição e
 <br>
 Faça a sua tb!
 
-## reveillon-similaridade-pln
+## reveillon-similaridade-pln.py
 Algoritmo que consisite em verificar a similaridade de termos digitados pelo usuário, com a palavra reveillon.
 <br>
 Baseia-se em uma técnica de Processamento em Linguagem Natural, que tem por objetivo humanizar a relação humano-máquina, através do deep learning.
