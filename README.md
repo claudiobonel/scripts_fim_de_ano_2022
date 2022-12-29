@@ -19,8 +19,13 @@ https://spacy.io/usage#:~:text=AttributeError%3A%20%27module%27%20object%20has%2
 <br>
 Divirta-se e aprenda! Teste com outras palavras e termos! 
 
-## Ano_Novo.py
-Em breve!
+## AnoNovo.py
+Nesse script, você imprimirpa na tela um árvore de natal com mensagens de feliz ano novo!
+<br>
+No script trabalhei algumas técnicas, como lógica, verificação de resto de divisão, listas, estruturas de repetição e condicional
+<br>
+Faça a sua tb! Aprenda de forma leve!
+
 
 ## Contatos
 Prof. Claudio Bonel
